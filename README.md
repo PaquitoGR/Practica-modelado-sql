@@ -1,6 +1,9 @@
 # Practica-modelado-sql
+
 Práctica del módulo Modelado de datos e introducción a SQL del Bootcamp Web15 | Keepcoding
+
 ## Enunciado
+
 En KeepCoding queremos gestionar la flota de vehículos de empresa, controlando los
 modelos de los coches, las marcas y el grupo empresarial de la marca (por ejemplo: VW,
 SEAT, Audi etc. pertenecen al grupo VAG).
@@ -14,6 +17,7 @@ sabiendo los Kms que tenía en el momento de la revisión, la fecha y el
 importe de la misma.
 Aparte del script, habrá que entregar una consulta SQL para sacar el siguiente listado de
 coches activos que hay en KeepCoding:
+
 - Nombre modelo, marca y grupo de coches (los nombres de todos)
 - Fecha de compra
 - Matricula
@@ -21,4 +25,8 @@ coches activos que hay en KeepCoding:
 - Total de kilómetros
 - Nombre empresa que está asegurado el coche
 - Numero de póliza
-Nota: Los importes se debe controlar la moneda (EURO, DÓLAR etc.).
+  Nota: Los importes se debe controlar la moneda (EURO, DÓLAR etc.).
+
+## Diagrama ER
+
+![Diagrama Entidad-Relación](./Keepmoving%20ER.jpg)
