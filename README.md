@@ -29,4 +29,4 @@ coches activos que hay en KeepCoding:
 
 ## Diagrama ER
 
-![Diagrama Entidad-Relación](./Keepmoving%20ER.jpg)
+![Diagrama Entidad-Relación](./img/Keepmoving%20ER.jpg)
