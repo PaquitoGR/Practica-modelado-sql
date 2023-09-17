@@ -27,6 +27,10 @@ coches activos que hay en KeepCoding:
 - Numero de póliza
   Nota: Los importes se debe controlar la moneda (EURO, DÓLAR etc.).
 
+[Código SQL](schema%20keepmoving.sql)
+
 ## Diagrama ER
+
+[Diagrama ER en formato drawio](KeepMoving%20Autos%20-%20ER.drawio)
 
 ![Diagrama Entidad-Relación](./img/Keepmoving%20ER.jpg)
